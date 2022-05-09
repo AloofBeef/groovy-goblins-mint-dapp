@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x170Ea154B758Fe121A7B497f775C6C30E8dDD4Ec",
+  "SCAN_LINK": "https://etherscan.io/address/0x170Ea154B758Fe121A7B497f775C6C30E8dDD4Ec",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Groovy Goblins NFT",
+  "SYMBOL": "GG",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 120000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/groovy-goblins-nft",
+  "SHOW_BACKGROUND": true
+}
